@@ -1,0 +1,6 @@
+D:\RIDER\Thi\Exercise2\bin\Debug\Exercise2.exe
+D:\RIDER\Thi\Exercise2\bin\Debug\Exercise2.pdb
+D:\RIDER\Thi\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+D:\RIDER\Thi\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+D:\RIDER\Thi\Exercise2\obj\Debug\Exercise2.exe
+D:\RIDER\Thi\Exercise2\obj\Debug\Exercise2.pdb
