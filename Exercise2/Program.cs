@@ -18,14 +18,13 @@ namespace Exercise2
             str = Console.ReadLine();
             Console.WriteLine("Enter a word to search");
             wordS = Console.ReadLine();
-            string[] c = str.Split();
+            string[] c = str.Split(' ');
             for (int i = 0; i < c.Length; i++)
             {
                 if (wordS != null && wordS.Equals(c[i]))
                 {
                     count++;
                 }
-                
             }
 
             if (count <= 1 )

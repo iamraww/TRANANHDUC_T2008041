@@ -4,8 +4,8 @@ namespace Exercise1
 {
     public class Person
     {
-        private string name = "Amar";
-        private int age = 40;
+        private string name;
+        private int age;
         public string Name
         {
             get
